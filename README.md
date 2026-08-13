@@ -28,9 +28,6 @@ No se incluyen `node_modules/` (se generan con `npm install`, ver más abajo) ni
 | MySQL / MariaDB | MariaDB 10.4 (vía XAMPP) | cualquier MySQL 5.7+/MariaDB 10.3+ debería servir |
 | Cliente MySQL (CLI o phpMyAdmin) | — | para importar el dump adjunto |
 
-Si no tienes MySQL/MariaDB instalado, la forma más simple es instalar **XAMPP**
-(incluye MariaDB + phpMyAdmin) y activar el módulo "MySQL" desde su panel de control.
-
 ## 2. Crear la base de datos e importar el dump
 
 Con el servidor MySQL/MariaDB corriendo:
