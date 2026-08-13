@@ -1,0 +1,13 @@
+Datetime (UTC),Country,Zone name,Zone id,Carbon intensity gCO₂eq/kWh (direct),Carbon intensity gCO₂eq/kWh (Life cycle),Carbon-free energy percentage (CFE%),Renewable energy percentage (RE%),Data source,Data estimated,Data estimation method
+2025-01-01T00:00:00.000000,Chile,Sistema Eléctrico Nacional,CL-SEN,156.74,205.26,71.84,71.84,coordinador.cl,false,""
+2025-02-01T00:00:00.000000,Chile,Sistema Eléctrico Nacional,CL-SEN,193.9,246.96,65.17,65.17,coordinador.cl,false,""
+2025-03-01T00:00:00.000000,Chile,Sistema Eléctrico Nacional,CL-SEN,226.6,283.25,59.29,59.29,coordinador.cl,false,""
+2025-04-01T00:00:00.000000,Chile,Sistema Eléctrico Nacional,CL-SEN,241.33,299.38,56.64,56.64, coordinador.cl; Electricity Maps Estimation,false,""
+2025-05-01T00:00:00.000000,Chile,Sistema Eléctrico Nacional,CL-SEN,231.77,288.02,58.36,58.36,coordinador.cl,false,""
+2025-06-01T00:00:00.000000,Chile,Sistema Eléctrico Nacional,CL-SEN,246.46,303.71,55.72,55.72,coordinador.cl,false,""
+2025-07-01T00:00:00.000000,Chile,Sistema Eléctrico Nacional,CL-SEN,263.85,323.68,52.6,52.6,coordinador.cl,false,""
+2025-08-01T00:00:00.000000,Chile,Sistema Eléctrico Nacional,CL-SEN,220.83,275.81,60.33,60.33,coordinador.cl,false,""
+2025-09-01T00:00:00.000000,Chile,Sistema Eléctrico Nacional,CL-SEN,186.03,237.58,66.58,66.58,coordinador.cl,false,""
+2025-10-01T00:00:00.000000,Chile,Sistema Eléctrico Nacional,CL-SEN,154.81,202.86,72.19,72.19,coordinador.cl,false,""
+2025-11-01T00:00:00.000000,Chile,Sistema Eléctrico Nacional,CL-SEN,170.06,220.49,69.45,69.45,coordinador.cl,false,""
+2025-12-01T00:00:00.000000,Chile,Sistema Eléctrico Nacional,CL-SEN,171.34,222.07,69.22,69.22,coordinador.cl,false,""

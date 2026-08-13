@@ -1,0 +1,39 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "seed": "node database/seed.js",
+    "seed:no-backup": "node database/seed.js --no-backup",
+    "backup": "node database/backup.js",
+    "restore": "node database/restore.js list",
+    "restore:num": "node database/restore.js",
+    "restore:file": "node database/restore.js",
+    "generate:2024": "node database/generate-realistic-uach-data.js generar 2024",
+    "generate:2025": "node database/generate-realistic-uach-data.js generar 2025",
+    "generate:all": "npm run generate:2024 && npm run generate:2025",
+    "limpiar:2024": "node database/generate-realistic-uach-data.js limpiar 2024",
+    "limpiar:2025": "node database/generate-realistic-uach-data.js limpiar 2025"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.9.0",
+    "bcryptjs": "^3.0.3",
+    "cors": "^2.8.5",
+    "csv-parser": "^3.2.0",
+    "date-fns": "^4.1.0",
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",
+    "jsonwebtoken": "^9.0.3",
+    "lucide-react": "^0.576.0",
+    "multer": "^2.0.2",
+    "mysql2": "^3.15.1",
+    "node-fetch": "^2.7.0"
+  },
+  "description": ""
+}
