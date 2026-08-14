@@ -1,6 +1,6 @@
-# Plataforma de Huella de Carbono Digital — UACh — Programa Preliminar
+# Prototipo de una Plataforma para la Medición de Huella de Carbono Digital — UACh
 
-Sistema de monitoreo de consumo eléctrico, tráfico de red y huella de carbono digital
+Sistema de medición de consumo eléctrico, tráfico de red y huella de carbono digital
 de dispositivos, salas y edificios de la Universidad Austral de Chile.
 
 Esta carpeta es una copia autocontenida del sistema (backend + frontend + base de datos)
