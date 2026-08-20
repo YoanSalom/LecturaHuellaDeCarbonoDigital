@@ -15,7 +15,7 @@ const elec24Routes = require('./routes/elec24');
 const dispositivosRoutes = require('./routes/dispositivos');
 const horariosRoutes = require('./routes/horarios');
 const estadisticasRoutes = require('./routes/estadisticas');
-const salasRoutes = require('./routes/salas'); // Nueva ruta
+const salasRoutes = require('./routes/salas'); 
 const emissionsRoutes = require('./routes/emissions2');
 const lecturasRoutes = require('./routes/lecturas');
 
