@@ -95,6 +95,7 @@ npm start
 cd frontend
 npm install
 npm install lucide-react dompurify -- usar si falla la instalacion de lucide-react
+npm install dotenv -- usar si falla la instalacion de dotenv
 npm start
 ```
 
